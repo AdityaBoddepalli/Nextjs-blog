@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+This is the tutorial I used for my introduction to Next.js. You can find the starter template for this project is at [Learn Next.js](https://nextjs.org/learn).
